@@ -65,7 +65,6 @@ function clickButton(myChoice){
     };
 }
 
-
 // 유사배열
 // const arr = {
 //     0: 'a',

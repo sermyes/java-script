@@ -185,4 +185,3 @@ document.querySelector('#exec').addEventListener('click', () => {
         dataset[verti][hori] = code.mine;
     }
 });
-

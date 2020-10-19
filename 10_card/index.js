@@ -21,8 +21,6 @@ function colorShuffle(){
 }
 colorShuffle();
 
-
-
 function cardSetting(cardLength){
     openflag = false;
     for(let i = 0; i < cardLength; i++){

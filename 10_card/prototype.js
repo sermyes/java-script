@@ -31,4 +31,3 @@ var newObj = Object.assign({}, proto);
 // Object.assign(obj2, obj);
 //! obj2에 obj를 1단계 복사
 
-

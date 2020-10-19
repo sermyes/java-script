@@ -20,4 +20,3 @@ console.log(card.attack());
 Card('바보', 1, 2);
 //! 생성자함수에 new를 붙이지않으면 this는 윈도우객체가 변경된다.
 console.log(window.name); //! 바보
-

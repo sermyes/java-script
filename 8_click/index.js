@@ -40,7 +40,6 @@ screen.addEventListener('click', () => {
     } 
 });
 
-
 // ! 콘솔 시간 측정(내용이 같아야한다.)
 //  console.time('시간') 
 //  console.timeEnd('시간');

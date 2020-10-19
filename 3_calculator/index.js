@@ -72,4 +72,3 @@ calculateButton.addEventListener('click', () => {
         }
     }
 });
-
