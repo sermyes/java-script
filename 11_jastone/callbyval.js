@@ -19,3 +19,4 @@ func2(temp); //! 8
 console.log(temp.a); //! 8
 //! call by reference와 다른점은 매개변수인 객체자체를 변경하면 복사되지만,
 //! 객체속성을 변경하면 참조된다.
+
