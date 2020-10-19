@@ -1,0 +1,2 @@
+http://code.jquery.com/jquery-latest.min.js - jquery CDN
+코딩한 javscript은 마지막에 위치해야하며 jquery는 위에 적용시켜야 한다.
