@@ -19,4 +19,3 @@ document.querySelector("#click").addEventListener('click', () => {
         r.textContent = '첫 번쨰 값 입력';
     }
 });
-
