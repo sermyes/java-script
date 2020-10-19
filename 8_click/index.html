@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>틱택토</title>
+    <style>
+        #screen {
+            width: 300px;
+            height: 200px;
+            text-align: center;
+            user-select: none;
+            /* user-select: none; 드래그 block도 안씌워지게 한다 */
+            position: relative;
+        }
+        #screen.waiting {
+            background-color: aqua;
+        }
+        #screen.ready {
+            background-color: red;
+            color: white;
+        }
+        #screen.now {
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <div id="screen" class="waiting">클릭해서 시작하세요</div>
+    <script src="index.js"></script>
+</body>
+</html>
